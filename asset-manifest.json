@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MughlaiMaharani/static/css/main.ac26812d.css",
-    "main.js": "/MughlaiMaharani/static/js/main.23126eec.js",
-    "static/media/logo.jpg": "/MughlaiMaharani/static/media/logo.560485b845a8f6401a8f.jpg",
-    "index.html": "/MughlaiMaharani/index.html",
-    "main.ac26812d.css.map": "/MughlaiMaharani/static/css/main.ac26812d.css.map",
-    "main.23126eec.js.map": "/MughlaiMaharani/static/js/main.23126eec.js.map"
+    "main.css": "/static/css/main.ac26812d.css",
+    "main.js": "/static/js/main.c25f60be.js",
+    "static/media/logo.jpg": "/static/media/logo.560485b845a8f6401a8f.jpg",
+    "index.html": "/index.html",
+    "main.ac26812d.css.map": "/static/css/main.ac26812d.css.map",
+    "main.c25f60be.js.map": "/static/js/main.c25f60be.js.map"
   },
   "entrypoints": [
     "static/css/main.ac26812d.css",
-    "static/js/main.23126eec.js"
+    "static/js/main.c25f60be.js"
   ]
 }
