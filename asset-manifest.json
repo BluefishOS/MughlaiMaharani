@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MughlaiMaharani/static/css/main.ac26812d.css",
+    "main.js": "/MughlaiMaharani/static/js/main.dbecb0b9.js",
+    "static/media/logo.jpg": "/MughlaiMaharani/static/media/logo.560485b845a8f6401a8f.jpg",
+    "index.html": "/MughlaiMaharani/index.html",
+    "main.ac26812d.css.map": "/MughlaiMaharani/static/css/main.ac26812d.css.map",
+    "main.dbecb0b9.js.map": "/MughlaiMaharani/static/js/main.dbecb0b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac26812d.css",
+    "static/js/main.dbecb0b9.js"
+  ]
+}
